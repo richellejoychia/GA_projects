@@ -3,7 +3,7 @@
 ## Introduction 
 The SAT and ACT generally cover the same topics. Both ACT and SAT scores are used for college admissions decisions and awarding merit-based scholarships. Most colleges do not prefer one test over the other. Neither the SAT or ACT is harder than the other. Different students tend to do better on one test over the other.
 
-In the past, ACT and SAT are a US high-schoolers rites of passage to college. However, in recent years, a large number of colleges have announced that they no longer require ACT/SAT scores for admissions. As the CEO of RoJAk Data Consultancy, I do see this as an opportunity for a moderated act. Therefore, before I propose the ways in which RoJAk Data Consultancy can help, I wouold first examine how various macro-social factors can affect ACT performances among high-schoolers (i.e., problem statement).
+In the past, ACT and SAT are a US high-schoolers rites of passage to college. However, in recent years, a large number of colleges have announced that they no longer require ACT/SAT scores for admissions. As the CEO of RoJAk Data Consultancy, I do see this as an opportunity for a moderated act. Therefore, before I propose the ways in which RoJAk Data Consultancy can help, I would first examine how various macro-social factors can affect ACT performances among high-schoolers (i.e., problem statement).
 
 In this project, I have included several datasets to set the ground for discussion:
 
