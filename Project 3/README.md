@@ -16,6 +16,7 @@ As such, it would be interesting to explore how we can help Reddit and other int
 ## Data Cleaning and Preprocessing
 - In this section, I checked for null values and re-labelled the subreddits topic (0 = anxiety, 1 = depression) before combining the titles and texts into a dataframe. 
 - Created 2 separate columns for word and character count, which will be essential for the sentiment analysis portion where the models have a word count limit. This step is also useful to examine the distribution in number of texts written for each subreddit, but we did not find a significant difference between sub-reddits for average words/posts.
+
 Preprocessing 
 - Removed duplicate rows due to glitch on Reddit when users encounter errors, resulting in double posts.
 - Removed default and custom stop words
