@@ -5,7 +5,7 @@
 
 All around the world, it is clear that house prices vary to a great extent. Sometimes, we do see that house prices differ even within the same area. How do we decide how much to sell or buy a property for? One common approach would be to ask a realtor to come up with a price. It sounds straightforward to put a price tag on the house, however, there is much more to it. As such, my team decided to conduct a survey among fellow colleagues to ask them about their experience with house prices. In general, we realized that realtors are spending way too much time trying to come up with a satisfactory number for their buyers/sellers. Moreover, they have to sieve through and consider various features.
 
-My problem statement wouold then be how can we help fellow realtors effectively and efficiently predict the market value of houses in Ames, Iowa? 
+My problem statement would then be how can we help fellow realtors effectively and efficiently predict the market value of houses in Ames, Iowa? 
 
 As a data scientist and realtor at MyProperty, I have decided to use existing data to build an accurate model to predict sale prices. Put simply, realtors would be able to input the house features into the model and the ideal price would appear. For this project, I included a dataset that contains several variables, which can potentially be included in the model. For example, quality and quantity of physical attributes of residential homes sold between 2006-2010. Most of the variables contain information a typical home buyer would like to know about a property (e.g., square footage, number of bedrooms and bathrooms, size of lot). This link contains a description of the variables used in this dataset - http://jse.amstat.org/v19n3/decock/DataDocumentation.txt
 
